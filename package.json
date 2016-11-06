@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/knitesh/ReactConfig.git"
+        "url": "git+https://github.com/knitesh/ReactConfig-webpack-babel.git"
     },
     "keywords": [
     "react",
@@ -22,9 +22,9 @@
     "author": "Kumar Nitesh",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/knitesh/ReactConfig/issues"
+        "url": "https://github.com/knitesh/ReactConfig-webpack-babel/issues"
     },
-    "homepage": "https://github.com/knitesh/ReactConfig#readme",
+    "homepage": "https://github.com/knitesh/ReactConfig-webpack-babel#readme",
     "dependencies": {
         "botbuilder": "^0.9.2",
         "express": "^4.13.4",
