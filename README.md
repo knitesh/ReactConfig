@@ -20,11 +20,11 @@ Add Package.json and webpack.config.json to your master folder
     "name": "sample-react-webpack-package",
     "version": "0.1.0",
     "description": "Simple Package.json configuration for React App suppporting webpack and babel.",
-    "main": "./folder/server.js",
+    "main": "./sample-app/server.js",
     "private": true,
     "scripts": {
         "start-webpack-server": "webpack-dev-server --hot --inline --colors --progress",
-        "start": "node ./PizzaBot/server.js"
+        "start": "node ./sample-app/server.js"
     },
     "repository": {
         "type": "git",
