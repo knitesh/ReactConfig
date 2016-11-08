@@ -1,7 +1,9 @@
 # ReactConfig
-Constains Package.json and other configurations for React APP
+ A starter React webpack and babel based configuration, supports hot module reloading.
 
-Add Package.json and webpack.config.json to your master folder
+To start a new app:-
+
+Add Package.json and webpack.config.json to your master folder and run below commands.
 
 ### Install WebPack and Webpack-dev-server by running below commands
 * $npm install webpack -g
